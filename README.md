@@ -39,7 +39,7 @@ Exemple de script a éxécuter
 	ob_end_flush(); 
 	flush();
 
+	exec('mysqldump --user=... --password=... --host=... MaBase > save.sql');
 
-  // faire se que l'on veux 
 ?>
 ```
