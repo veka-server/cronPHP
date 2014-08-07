@@ -1,7 +1,7 @@
 cronPHP
 =======
 
-Une classe php qui permet de faire des taches plus ou moin regulierement sans cron.
+Une classe php qui permet de faire des taches plus ou moin regulierement, sans cron.
 
 Exemple d'utilisation
 ====
